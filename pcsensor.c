@@ -32,6 +32,7 @@
 #include <usb.h>
 #include <stdio.h>
 #include <time.h>
+#include <ctype.h>
 
 #include <string.h>
 #include <errno.h>
